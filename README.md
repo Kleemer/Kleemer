@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kleemer
-- 👀 I’m interested in Vue.js, Node and Laravel
+- 👀 My favorite stack Vue.js, Node and Laravel
 - 🌱 I’m currently learning MongoDB
 
 <!---
